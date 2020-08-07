@@ -1,0 +1,62 @@
+{
+  "container": [
+    {
+      "key": "border",
+      "value": "1px solid #DEDEDE"
+    },
+    {
+      "key": "border-radius",
+      "value": "5px"
+    },
+    {
+      "key": "width",
+      "value": "90%"
+    },
+    {
+      "key": "padding",
+      "value": "10px"
+    },
+    {
+      "key": "margin",
+      "value": "10px"
+    }
+  ],
+
+  "header": [
+    {
+      "key": "font-size",
+      "value": "1.5rem"
+    },
+    {
+      "key": "font-weight",
+      "value": "bold"
+    },
+    {
+      "key": "font-family",
+      "value": "Arial"
+    },
+    {
+      "key": "margin-left",
+      "value": "10px"
+    }
+  ],
+
+  "paragraph": [
+    {
+      "key": "padding",
+      "value": "5px"
+    },
+    {
+      "key": "font-family",
+      "value": "Arial"
+    },
+    {
+      "key": "font-size",
+      "value": "14px"
+    },
+    {
+      "key": "font-weight",
+      "value": "normal"
+    }
+  ]
+}

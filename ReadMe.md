@@ -1,0 +1,1 @@
+## Html Email Formatter is a library to programmatically style and format Html Emails and sending.
